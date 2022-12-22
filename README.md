@@ -1,0 +1,2 @@
+This is a financial data webscraper built using Python and the Pandas library to connect to the FinancialModelingPrep API.
+The purpose of this program is to help avid stock market investors such as myself, pull the past 5 years worth of financial data on any publically traded company. 
